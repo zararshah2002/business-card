@@ -1,0 +1,36 @@
+body{
+    margin: 20px;
+    background-color: #ffffff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+
+.pfp{
+    display: flex;
+    width: 110px;
+    
+}
+
+.main{
+    width: 400px;
+    margin: 0px auto;
+    padding: 20px;
+    display: flex;
+    justify-content:space-around; 
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;
+
+    
+}
+
+
+
+
+.border{
+    border-bottom: #d8cefe 5px solid;
+    
+}
+
+
